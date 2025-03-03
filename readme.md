@@ -1,6 +1,8 @@
 Capstone Project
 Calendar Classification Final Report by Andrew Nordstrom
 
+Jupyter Notebook https://github.com/mad24x/Classification_capstone/blob/main/meeting_prediction_attendance_final_arn.ipynb
+
 1. Problem Statement: Managing meetings effectively is a crucial aspect of professional productivity. However, individuals often struggle with determining whether a meeting requires physical travel, which can lead to last-minute departures, tardiness, or inefficient scheduling. The goal of this project is to develop a machine learning-powered AI assistant that classifies calendar invites into onsite, offsite, or online meetings. Blocking off travel time would also be a benefit to coworkers.  Knowing when someone is not available to schedule meetings also improves efficiency and last-minute cancellations. 
 
 2. Model Outcomes or Predictions: The problem is formulated as a classification task, where the AI assistant categorizes meetings into three classes:
